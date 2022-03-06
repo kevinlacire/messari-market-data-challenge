@@ -1,0 +1,12 @@
+apiVersion: v1
+appVersion: 0.0.1
+description: package de déploiement du projet tracking to mongo streamer
+keywords:
+- tracking-to-mongo-streamer
+
+maintainers:
+- email: team-data@regionsjob.com
+  name: Team Data
+
+name: tracking-to-mongo-streamer
+version: 0.0.1
