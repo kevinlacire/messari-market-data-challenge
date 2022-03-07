@@ -1,9 +1,0 @@
-name: tracking-to-mongo-streamer
-imageName: tracking-to-mongo-streamer
-visibleName: tracking-to-mongo-streamer
-replicas: 1
-version: 0.0.1
-repository: regis.azurecr.io
-port: 8080
-initialDelaySeconds: 30
-gracePeriod: 30
